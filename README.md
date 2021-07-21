@@ -2,9 +2,9 @@
 
 ---
 
-## I'm a Student at SRM University | BTech Computer Science
+## I'm a Student at SRM University | B.Tech Computer Science Engineering
 
-- 🌱 I’m currently working on competitive programming skills
+- 🌱 I’m currently working on my competitive programming skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ---
