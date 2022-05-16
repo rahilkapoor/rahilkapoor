@@ -5,13 +5,13 @@
 ## I'm a Student at SRM University | B.Tech Computer Science Engineering
 
 - 🌱 I’m currently working on my competitive programming skills
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn Java and build projects
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Rahil Kapoor | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/rahil-kapoor-19604b195/ "Rahil Kapoor | LinkedIn")
+[<img align="left" alt="Rahil Kapoor | LinkedIn" width="22px" src="https://indhu-github.github.io/Linkedin-Logo/" />](https://www.linkedin.com/in/rahil-kapoor-19604b195/ "Rahil Kapoor | LinkedIn")
 
 [<img align="left" alt="Rahil Kapoor | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />](https://twitter.com/RahilKapoor8 "Rahil Kapoor | Twitter")
 
