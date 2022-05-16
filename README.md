@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rahil Kapoor | LinkedIn" width="22px" src="https://indhu-github.github.io/Linkedin-Logo/" />](https://www.linkedin.com/in/rahil-kapoor-19604b195/ "Rahil Kapoor | LinkedIn")
+[<img align="left" alt="Rahil Kapoor | LinkedIn" width="28px" src="https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png" />](https://www.linkedin.com/in/rahil-kapoor-19604b195/ "Rahil Kapoor | LinkedIn")
 
-[<img align="left" alt="Rahil Kapoor | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />](https://twitter.com/RahilKapoor8 "Rahil Kapoor | Twitter")
+[<img align="left" alt="Rahil Kapoor | Twitter" width="29px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />](https://twitter.com/RahilKapoor8 "Rahil Kapoor | Twitter")
 
 <br/>
 
