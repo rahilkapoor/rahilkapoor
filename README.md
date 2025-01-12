@@ -2,16 +2,18 @@
 
 ---
 
-## I'm a Student at SRM University | B.Tech Computer Science Engineering
+### ✨Full Stack Developer with 2 years of experience in building robust and scalable applications. 
+### ✨Proficient in a diverse tech stack including Java, Python, React, Spring Boot, and PEGA. 
+### ✨Possessing a strong foundation in HTML, CSS, JavaScript, and SQL, I am adept at crafting user-centric interfaces. 
+### ✨Eager to contribute to innovative projects and continuously expand my technical expertise.
 
-- 🌱 I’m currently working on my competitive programming skills
-- 🥅 2022 Goals: Learn Java and build projects
+- 🌱 I’m currently learning Distributed System Design
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Rahil Kapoor | LinkedIn" width="28px" src="https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png" />](https://www.linkedin.com/in/rahil-kapoor-19604b195/ "Rahil Kapoor | LinkedIn")
+[<img align="left" alt="Rahil Kapoor | LinkedIn" width="28px" src="https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png" />](https://www.linkedin.com/in/rahilkapoor/ "Rahil Kapoor | LinkedIn")
 
 [<img align="left" alt="Rahil Kapoor | Twitter" width="29px" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" />](https://twitter.com/RahilKapoor8 "Rahil Kapoor | Twitter")
 
